@@ -11,7 +11,7 @@ Hi, I'm **Lucien Vargas**, a aspring environmental economist.
   - Proficient in **Python**, **R**, and **STATA**.
 
 - 🌱 **Current Interests**:
-  - Exploring empirical methods in climate change economics.
+  - Exploring empirical methods in climate change economics and energy markets
   - Interested in data-based climate policy evaluation
 
 - ⚡ **Fun Fact**:
